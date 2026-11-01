@@ -24,3 +24,8 @@ Skills
 
 Data Source
 Dummy Data for Practice and Learning.
+
+
+Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.png)
